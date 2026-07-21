@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="gh.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Jordan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+    <div class="logo">Jordan</div>
+
+    <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Courses</a></li>
+    </ul>
+</nav>
+    <header>
+        <h1>Discover the Beauty of Jordan 🇯🇴</h1>
+        <p>Explore history, nature, and culture</p>
+        <button onclick="scrollToSection('about')">Start Your Journey</button>
+    </header>
+
+    <section id="about">
+        <h2>About Jordan</h2>
+        <p>
+            Jordan is a country in the Middle East known for its ancient history,
+            stunning landscapes, and warm hospitality.
+        </p>
+    </section>
+
+<section id="places">
+    <h2>Top Attractions</h2>
+    <div class="cards">
+        <div class="card">
+            <img src="images/ب.jpg" alt="Petra">
+            <h3>Petra</h3>
+            <p>A historical city carved into rock.</p>
+        </div>
+
+        <div class="card">
+            <img src="images/و.jpg" alt="Wadi Rum">
+            <h3>Wadi Rum</h3>
+            <p>A breathtaking desert landscape.</p>
+        </div>
+
+        <div class="card">
+            <img src="images/ي.jpg" alt="Dead Sea">
+            <h3>Dead Sea</h3>
+            <p>The lowest point on Earth.</p>
+        </div>
+
+        <div class="card">
+            <img src="images/ج.jpg"Jerash">
+            <h3>Jerash</h3>
+            <p>Ancient Roman ruins.</p>
+        </div>
+    </div>
+</section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form onsubmit="return showMessage()">
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+        <p id="msg"></p>
+    </section>
+
+    <footer>
+        <p>© 2026 Discover Jordan | Educational Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+    
+
+</body>
+
+</html>
