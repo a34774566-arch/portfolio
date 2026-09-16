@@ -3,7 +3,7 @@
 A professional developer portfolio showcasing my web applications, AI solutions, and software projects.
 
 ### 🌍 Discover Jordan Website
-
+![Project Image](h.png)
 A tourism website that showcases famous places and attractions in Jordan.
 
 **Technologies Used:**
@@ -28,7 +28,7 @@ A complete website designed for a women's salon to display services and contact 
 ---
 
 ### 🏥 Bungee Healthcare Dashboard
-
+![Project Image](e.png)
 A healthcare dashboard designed to display and manage patient information through an interactive and user-friendly interface.
 
 The system provides visual monitoring of health indicators such as heart rate, blood pressure, temperature, and oxygen levels to support better healthcare management.
@@ -51,7 +51,7 @@ https://6a5f6e1f3df0e42139543f95--wondrous-khapse-659c92.netlify.app/
 ---
 
 ### 🎓 Jurs University Major Selection Assistant
-
+![Project Image](e.png)
 An intelligent web assistant designed to help university students explore suitable academic majors based on their interests and information.
 
 The system provides guidance and improves the decision-making process for students choosing their university specialization.
@@ -75,6 +75,7 @@ https://wondrous-khapse-659c92.netlify.app/
 ---
 
 ### 📚 Java OOP Library Management System
+![Project Image](o.png)
 
 A Java-based library management system developed using Object-Oriented Programming concepts.
 
@@ -117,6 +118,7 @@ The platform focuses on organizing educational content and supporting online lea
 https://ussunnah.org/ar/contact
 
 ### . AI Smart Pharmacy Management System
+![Project Image](a.jfif)
 An intelligent pharmacy management system that uses Artificial Intelligence to improve medicine inventory management and support pharmacy decision-making.
 
 The system helps monitor medicine stock, track expiration dates, analyze sales data, and provide insights through an intelligent dashboard.
@@ -147,6 +149,7 @@ The system aims to improve communication between deaf and hearing communities th
 https://6a5f68c5944fa17e1769f9d6--wondrous-khapse-659c92.netlify.app/
 
 ### . Jordanian AI Visual Assistant for Blind People
+![Project Image](k.jpg)
 An AI-powered assistive system designed to help blind users understand their surroundings using Computer Vision and Deep Learning.
 
 The system analyzes images through a smartphone camera, recognizes objects, reads Arabic and English text, identifies medicines and currency, and provides voice feedback to improve accessibility and independence.
