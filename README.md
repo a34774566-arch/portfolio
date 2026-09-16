@@ -131,6 +131,7 @@ The system helps monitor medicine stock, track expiration dates, analyze sales d
 https://pharmaai-easy.ai.studio
 
 ### . Jordanian Sign Language Translation System Using Deep Learning
+![Portfolio Preview](WhatsApp Image 2026-08-25 at 5.03.57 PM.jpeg)
 An AI-based system that translates Jordanian Sign Language gestures into Arabic text using Computer Vision and Deep Learning techniques.
 
 The system aims to improve communication between deaf and hearing communities through an automated translation solution.
