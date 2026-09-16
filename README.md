@@ -14,8 +14,7 @@ A tourism website that showcases famous places and attractions in Jordan.
 **Live Demo:**
 
 
-magenta-salamander-17a80d.netlify.app
-
+https://magenta-salamander-17a80d.netlify.app/
 ---
 
 ### 💇 Salon Website
