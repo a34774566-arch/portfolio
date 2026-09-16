@@ -28,7 +28,7 @@ A complete website designed for a women's salon to display services and contact 
 ---
 
 ### 🏥 Bungee Healthcare Dashboard
-![Project Image](e.png)
+![Project Image](b.jfif)
 A healthcare dashboard designed to display and manage patient information through an interactive and user-friendly interface.
 
 The system provides visual monitoring of health indicators such as heart rate, blood pressure, temperature, and oxygen levels to support better healthcare management.
@@ -51,7 +51,7 @@ https://6a5f6e1f3df0e42139543f95--wondrous-khapse-659c92.netlify.app/
 ---
 
 ### 🎓 Jurs University Major Selection Assistant
-![Project Image](e.png)
+![Project Image](e.jfif)
 An intelligent web assistant designed to help university students explore suitable academic majors based on their interests and information.
 
 The system provides guidance and improves the decision-making process for students choosing their university specialization.
