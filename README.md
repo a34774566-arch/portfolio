@@ -162,6 +162,18 @@ The system analyzes images through a smartphone camera, recognizes objects, read
 - Text-to-Speech
 - Flutter
 - Python
+- ### . مزاولتك – منصة بنوك الأسئلة للطلاب الأردنيين
+![Project Image](mazawlatak.png)
+منصة ويب عربية تساعد طلاب الدبلوم والبكالوريوس في الأردن على الاستعداد للامتحانات عبر بنوك أسئلة، وعينات مجانية، واختبارات تجريبية بمؤقت وتصحيح فوري وشرح للإجابات. الدفع عبر Orange Money بتأكيد يدوي من الإدارة، والأسئلة المدفوعة محمية على الخادم.
+
+**التقنيات:**
+- Firebase Authentication
+- Cloud Firestore
+- Cloud Functions (TypeScript)
+- JavaScript
+- HTML / CSS (RTL)
+
+🔗 [الموقع التجريبي](https://a34774566-arch.github.io/mazawlatak/) • [الكود المصدري](https://github.com/a34774566-arch/mazawlatak)
 
 
 
